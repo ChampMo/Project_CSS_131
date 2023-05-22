@@ -128,7 +128,6 @@ def main():
     L = Label(GUI,text ='',font = FONT3).pack()
     L2 = Label(GUI,text ='Air quality', fg="gray17",font = FONT6).pack()
     L1 = Label(GUI,text ='ค้นหาสภาพอากาศ\n', fg="gray17",font = FONT6).pack()
-
     #txt = StringVar()
     #Entry(GUI,textvariable=txt, fg="gray",font = FONT3).pack(ipadx=60,ipady=4)
     
@@ -176,7 +175,6 @@ def main():
         # ใส่เฟรมใน Canvas
         canvas.create_window((0, 0), window=content_frame, anchor="nw")
         
-
         L = Label(content_frame,text ='        ',font = FONT3).pack()
         L1 = Label(content_frame,text ='Air Quality Index (AQI) : เกณฑ์ของดัชนีคุณภาพอากาศของประเทศไทย ', fg="gray5",font = FONT1).pack()
         L = Label(content_frame,text ='        ',font = FONT3).pack()
