@@ -18,7 +18,7 @@ pip install songline
 
 3.วิธีการรับแจ้งเตือนในฟังก์ชั่นส่งไลน์
 
-3.1)เข้ากลุ่ม [https://line.me/ti/g/DhVUP_slbD]
+3.1)เข้ากลุ่ม [https://line.me/ti/g/DhVUP_slbD] (มี Qr code อยู่ในไฟล์นำเสนอ)
 
 ***หรือ***
 
