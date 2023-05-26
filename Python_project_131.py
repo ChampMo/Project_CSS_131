@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import ttk
 
 def main():
-    token = 'ZHh6hPmgznso52lDaCH68sIxPdHAnbqoneViSOsZAEe'
+    token = 'bGAXUglaMvUnqtZIqIgI5D4OaHRjFo7oclQeXHSTCzt'
     messenger = Sendline(token)
     city = ["bangkok","rayong","chiang mai","chiang rai"]
     tags = ["@5773","@5774","@5775","@5776"]
