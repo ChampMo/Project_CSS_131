@@ -10,7 +10,7 @@ Air quality & Climate
 
 2. เนื่องจากมีการใช้งาน Library จากภายนอก จึงต้องทำการ Install Library เหล่านี้ก่อน
 
-      pip install requests
+      pip install requests**กดคัดลอก:** คัดลอกข้อความ
    
    (ใช้สำหรับเรียกข้อมูล)
 
