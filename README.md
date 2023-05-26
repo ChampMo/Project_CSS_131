@@ -26,7 +26,7 @@ pip install songline
 
 
 
-# -วิธีการเปลี่ยน token (*** ทางเลือกแบบ private*** )-
+# วิธีการเปลี่ยน token (*** ทางเลือกแบบ private***)
 
 (***
 
