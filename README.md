@@ -20,7 +20,7 @@ Air quality & Climate
 
 3. วิธีการรับแจ้งเตือนในฟังก์ชั่นส่งไลน์
 
-   3.1) เข้ากลุ่มไลน์ [https://line.me/ti/g/DhVUP_slbD] (มี Qr code อยู่ในไฟล์นำเสนอ)
+   3.1) เข้ากลุ่มไลน์ [https://line.me/ti/g/DhVUP_slbD] (มี Qr code อยู่ใน Github/Project_CSS_131/QR_CODE_GROUPLINE และ ไฟล์นำเสนอ)
 
    ***หรือ***
 
