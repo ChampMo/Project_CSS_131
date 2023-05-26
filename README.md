@@ -9,8 +9,8 @@ Air quality & Climate
 1. ดาวน์โหลดโปรเจกต์จากไฟล์  Python_project_131.py
 
 2. เนื่องจากมีการใช้งาน Library จากภายนอก จึงต้องทำการ Install Library เหล่านี้ก่อน
-
-      pip install requests**กดคัดลอก:** คัดลอกข้อความ
+**กดคัดลอก:** คัดลอกข้อความ
+      pip install requests
    
    (ใช้สำหรับเรียกข้อมูล)
 
