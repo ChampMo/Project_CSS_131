@@ -10,11 +10,11 @@ Air quality & Climate
 
 2. เนื่องจากมีการใช้งาน Library จากภายนอก จึงต้องทำการ Install Library เหล่านี้ก่อน
 
-       **pip install requests**
+       pip install requests
    
    (ใช้สำหรับเรียกข้อมูล)
 
-       **pip install songline**
+       pip install songline
       
    (ใช้สำหรับฟังก์ชั่นส่งค่าสภาพอากาศเข้าไลน์)
 
