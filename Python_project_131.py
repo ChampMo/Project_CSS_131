@@ -398,7 +398,7 @@ def main():
         def About():
             tkinter.messagebox.showinfo("ผู้พัฒนา","\t65090500452\t\t\n\tMonthol Sukjinda\t\t\n\tนายมณฑล สุขจินดา\t\t")
         def Exit():
-            confirm = tkinter.messagebox.askquestion("ยืนยัน","คุณต้องการปิดโปรแกรมหรือไม่!!!")
+            confirm = tkinter.messagebox.askquestion("ปิดโปรแกรม!","คุณต้องการปิดโปรแกรมหรือไม่!!!")
             if confirm == "yes" :
                 GUI.destroy()
 
@@ -440,7 +440,7 @@ def main():
     def About():
         tkinter.messagebox.showinfo("ผู้พัฒนา","\t65090500452\t\t\n\tMonthol Sukjinda\t\t\n\tนายมณฑล สุขจินดา\t\t")
     def Exit():
-        confirm = tkinter.messagebox.askquestion("ยืนยัน","คุณต้องการปิดโปรแกรมหรือไม่!!!")
+        confirm = tkinter.messagebox.askquestion("ปิดโปรแกรม!","คุณต้องการปิดโปรแกรมหรือไม่!!!")
         if confirm == "yes" :
             GUI.destroy()
     def ref():
